@@ -293,5 +293,5 @@
     <color name="Gray">#808080</color><!--灰色-->
     <color name="DimGray">#696969</color><!--暗淡灰-->
     <color name="Black">#000000</color><!--纯黑-->
-
+    <color name="tab_unselect">#c9c9c9</color>
 </resources>
