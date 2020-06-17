@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TemplateCode.iml" filepath="$PROJECT_DIR$/TemplateCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bottomnavgivationview/bottomnavgivationview.iml" filepath="$PROJECT_DIR$/bottomnavgivationview/bottomnavgivationview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateCode.iml" filepath="$PROJECT_DIR$/TemplateCode.iml" group="TemplateCode" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TemplateCode/app" />
+      <module fileurl="file://$PROJECT_DIR$/bottomnavgivationview/bottomnavgivationview.iml" filepath="$PROJECT_DIR$/bottomnavgivationview/bottomnavgivationview.iml" group="TemplateCode/bottomnavgivationview" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" group="TemplateCode/common" />
     </modules>
   </component>
 </project>
